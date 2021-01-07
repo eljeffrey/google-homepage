@@ -1,6 +1,8 @@
-.center{
+ img.center {
     display: block;
-    margin-left:auto;
-    margin-right:auto;
-    width: 50%;
+    margin:auto;
+}
+div.box {
+    width: 100%;
+    text-align: center;
 }
